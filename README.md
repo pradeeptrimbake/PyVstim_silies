@@ -1,2 +1,2 @@
-# PyVstim_silies.github.io
+# PyVstim_Silies
 Silies_lab stimuli code guide and documentation
